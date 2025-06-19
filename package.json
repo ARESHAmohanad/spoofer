@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "express": "^5.1.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.7.0"
+  }
+}
