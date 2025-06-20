@@ -23,7 +23,7 @@ A Go-based tool to send spoofed messages on WhatsApp. This tool is for education
    
 2. **Install repository on Termux**:
    ```bash
-   git clone https://github.com/ARESHAmohanad/whatsapp.git
+   git clone https://github.com/ARESHAmohanad/spoofer.git
    cd whatsapp
    
 3. **Install dependencies**:
