@@ -1,3 +1,5 @@
+
+
 # WhatsApp Spoofed Message Tool
 
 A Go-based tool to send spoofed messages on WhatsApp. This tool is for educational purposes only. Use it responsibly and only on systems you own or have explicit permission to test.
