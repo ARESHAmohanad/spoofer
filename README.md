@@ -18,20 +18,20 @@ A Go-based tool to send spoofed messages on WhatsApp. This tool is for education
 - Go (Golang) installed.
 
 ### **Steps**
-1. **Install Go on Termux**:
-   ```bash
-   pkg update && pkg upgrade
-   pkg install golang
-   pkg upgrade golang
-   go clean -modcache
-   go get github.com/Rhymen/go-whatsapp
-   go get google.golang.org/protobuf/proto
-
-   
-2. **Install repository on Termux**:
+1. **Install repository**:
    ```bash
    git clone https://github.com/ARESHAmohanad/spoofer.git
    cd whatsapp
+
+   
+2. **Install Go**:
+   ```bash
+   apt-get update && apt-get upgrade
+   apt-get install golang
+   apt-get upgrade golang
+   go clean -modcache
+   go get github.com/Rhymen/go-whatsapp
+   go get google.golang.org/protobuf/proto
    
 3. **Install dependencies**:
    ```bash
@@ -59,7 +59,7 @@ A Go-based tool to send spoofed messages on WhatsApp. This tool is for education
 
 2. **Scan the QR code**:
    - Open WhatsApp on your phone.
-   - Go to **Linked Devices** and scan the QR code displayed in Termux.
+   - Go to **Linked Devices** and scan the QR code displayed .
 
 3. **Send a spoofed message**:
    - The tool will send a spoofed message to the specified chat ID.
