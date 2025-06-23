@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="ChatGPT Image 23 de jun. de 2025, 00_14_30.png" alt="Spoofer Banner" width="800"/>
+</p>
+
+
 
 
 # WhatsApp Spoofed Message Tool
